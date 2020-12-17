@@ -1,7 +1,14 @@
 ### Hi there 👋
 
+My name is Ewerton Gonçalves , and Aspiring Full Stack Developer , Living in Brazil and working remotely for companies around the globe.
+
+Contact-me :
+
 <!--
 **EwertonWeb/EwertonWeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
 
 Here are some ideas to get you started:
 
