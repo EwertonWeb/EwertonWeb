@@ -8,11 +8,11 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Coloque as linguagens que você desenvolve.</strong>
+  🦄 Linguagens: <strong>HTML5, CSS3, JavaScript, Bootstrap.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
+  💼 Ferramentas: <strong>Visual Studio Code, PhotoShop, Git and GitHub..</strong>
 </p>
 
 <p align="left">
