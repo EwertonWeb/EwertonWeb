@@ -1,6 +1,6 @@
 
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://i.postimg.cc/XNy49z31/19-Processos-de-software.jpg" min-width="400px" max-width="400px" width="600px" align="right" alt="">
 
 <p align="left"> 
  Hi there ,My name is Ewerton Gonçalves and Aspiring Full Stack Developer 
@@ -8,7 +8,7 @@
 </p>
 
 <p align="left">
- 🦄 <strong>My Skills: </strong>⤵️<br><br>
+  <strong>My Skills: </strong>⤵️<br><br>
   <img src="https://devicon.dev/devicon.git/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="35" width="35" style="max-width:100%;"></img>
   <img src="https://devicon.dev/devicon.git/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="35" width="35" style="max-width:100%;"></img>
   <img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" alt="Javascript" height="35" width="35" style="max-width:100%;"></img>
@@ -21,7 +21,7 @@
 
 
 <p align="left">
- 💼 <strong> My Tools: </strong>⤵️<br><br>
+  <strong> My Tools: </strong>⤵️<br><br>
  <img src="https://devicon.dev/devicon.git/icons/visualstudio/visualstudio-plain.svg" alt="VSCODE" height="45" width="45" style="max-width:100%;"></img>
  <img src="https://devicon.dev/devicon.git/icons/photoshop/photoshop-plain.svg" alt="Photoshop" height="45" width="45" style="max-width:100%;"></img>
  <img src="https://devicon.dev/devicon.git/icons/git/git-original.svg" alt="Git" height="45" width="45" style="max-width:100%;"></img>
