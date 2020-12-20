@@ -1,6 +1,6 @@
 
 
-<img src="https://i.postimg.cc/XNy49z31/19-Processos-de-software.jpg" min-width="400px" max-width="400px" width="600px" align="right" alt="">
+<img src="https://i.postimg.cc/XNy49z31/19-Processos-de-software.jpg" min-width="400px" max-width="400px" width="500px" align="right" alt="">
 
 <p align="left"> 
  Hi there ,My name is Ewerton Gonçalves and Aspiring Full Stack Developer 
