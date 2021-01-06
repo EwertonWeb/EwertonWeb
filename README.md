@@ -22,12 +22,12 @@
 
 <p align="left">
   <strong> My Tools: </strong>⤵️<br><br>
- <img src="https://devicon.dev/devicon.git/icons/visualstudio/visualstudio-plain.svg" alt="VSCODE" height="45" width="45" style="max-width:100%;"></img>
- <img src="https://devicon.dev/devicon.git/icons/photoshop/photoshop-plain.svg" alt="Photoshop" height="45" width="45" style="max-width:100%;"></img>
- <img src="https://devicon.dev/devicon.git/icons/git/git-original.svg" alt="Git" height="45" width="45" style="max-width:100%;"></img>
- <img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" alt="GIT HUB" width="45" height="45" style="max-width:100%;"></img>
- <img src="https://devicon.dev/devicon.git/icons/chrome/chrome-original-wordmark.svg" alt="CHROME" width="45" height="45" style="max-width:100%;"></img>
- <img src="https://devicon.dev/devicon.git/icons/devicon/devicon-original-wordmark.svg" alt="Devicon" width="45" height="45" style="max-width:100%;"></img>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="VSCODE" height="45" width="45" style="max-width:100%;"></img>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="Photoshop" height="45" width="45" style="max-width:100%;"></img>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" height="45" width="45" style="max-width:100%;"></img>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GIT HUB" width="45" height="45" style="max-width:100%;"></img>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" alt="CHROME" width="45" height="45" style="max-width:100%;"></img>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devicon/devicon-original.svg" alt="Devicon" width="45" height="45" style="max-width:100%;"></img>
  
  
  
