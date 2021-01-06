@@ -9,13 +9,13 @@
 
 <p align="left">
   <strong>My Skills: </strong>⤵️<br><br>
-  <img src="https://devicon.dev/devicon.git/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="35" width="35" style="max-width:100%;"></img>
-  <img src="https://devicon.dev/devicon.git/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="35" width="35" style="max-width:100%;"></img>
-  <img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" alt="Javascript" height="35" width="35" style="max-width:100%;"></img>
-  <img src="https://devicon.dev/devicon.git/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" height="35" width="35" style="max-width:100%;"></img>
-  <img src="https://devicon.dev/devicon.git/icons/php/php-original.svg" alt="PHP" height="35" width="35" style="max-width:100%;"></img>
-  <img src="https://devicon.dev/devicon.git/icons/python/python-original.svg" alt="Python" height="35" width="35" style="max-width:100%;"></img>
-  <img src="https://devicon.dev/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="SQL" height="35" width="35" style="max-width:100%;"></img>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="35" width="35" style="max-width:100%;"></img>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="35" width="35" style="max-width:100%;"></img>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" height="35" width="35" style="max-width:100%;"></img>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" height="35" width="35" style="max-width:100%;"></img>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" height="35" width="35" style="max-width:100%;"></img>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="35" width="35" style="max-width:100%;"></img>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="SQL" height="35" width="35" style="max-width:100%;"></img>
   
 </p>
 
